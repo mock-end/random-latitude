@@ -1,6 +1,6 @@
 {
   "name": "random-latitude",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a random latitude.",
   "main": "index.js",
   "scripts": {
@@ -47,6 +47,6 @@
   "dependencies": {
     "clamp": "^1.0.1",
     "object-assign": "^4.0.1",
-    "random-floating": "^1.0.0"
+    "random-floating": "^1.0.1"
   }
 }
